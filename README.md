@@ -24,6 +24,6 @@ I try bridging the gap between elegant UI and robust backend architecture. Curre
 
 ## Connect with me
 - [Email](bbom3123@gmail.com)
-- [WhatsApp](+856 20 57 250 175)
+- [WhatsApp](+85602057250175)
 
 **Email:** bbom3123@gmail.com
