@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=bbom3123-max&color=blue)
 
-> Backend-Focused · [ชื่อมหาลัย] · Expected [ปีจบ]
+> Backend-Focused · [National University of Laos] · Expected [2027]
 
 I try bridging the gap between elegant UI and robust backend architecture. Currently deep-diving into high-concurrency systems with MongoDB and Flutter for scalable mobile solutions.
 
